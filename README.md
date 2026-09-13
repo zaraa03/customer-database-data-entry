@@ -31,7 +31,7 @@ The raw customer data contained several data quality issues, including inconsist
 - Microsoft Excel
 
 ## Files
-- `Raw Customer Data` — Original dataset before cleaning
+- `Raw Customer Data.png` — Original dataset before cleaning
 - `Cleaned Data` — Dataset after cleaning and standardization
 - `Quality Check` — Summary of data quality checks
 
